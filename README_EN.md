@@ -55,7 +55,7 @@ The purpose of data intervention system is to separate data warehousing from spe
 
 ## How to Contribute
 
-1.  Every member of the ACLoong community can fork this repository to your Github;
+1. Every member of the ACLoong community can fork this repository to your Github;
 
 2. Use this command(`git clone` + `your repository url`) to clone this repository from your Github 
 to local；
@@ -66,9 +66,9 @@ submit the changes to the local repository after the achievement of your changes
 
 4. Use the (`git push`) command to synchronize local modifications to Github's remote repository；
 
-5.Send (`pull requests`) and everyone of our team can review it ；
+5. Send (`pull requests`) and everyone of our team can review it ；
 
-6.(`review`)adopt or return to have a modification。
+6. (`review`)adopt or return to have a modification。
 
 ## Thanks
 

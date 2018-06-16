@@ -1,4 +1,4 @@
-#NBA-TALL Project
+# NBA-TALL Project
 
 ## [中文版](/README_ZH.md)
 

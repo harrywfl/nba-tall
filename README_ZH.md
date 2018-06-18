@@ -11,7 +11,7 @@ nba-tall这个项目主要是利用scrapy爬虫框架对各大新闻门户网站
 ## 项目结构<br/>
 ***
 该项目结构图如下所示：
-![项目结构图](Images/structure.png)
+![项目结构图](DOCS/Images/structure.png)
 
 ## 子系统的详细介绍
 ***

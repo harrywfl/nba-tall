@@ -28,7 +28,7 @@ classification, and attach the URL link of the classified content to users unifo
 ***
 
 The structure of the project is shown as follows:：
-![The structure of the project](Images/structure_en.png)
+![The structure of the project](DOCS/Images/structure_en.png)
 
 ## Detailed introduction to the subsystem 
 
